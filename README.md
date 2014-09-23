@@ -2,5 +2,5 @@ Get ready to boil in ```~/.bash_profile``` with
 
 
 ```
-alias boil='git clone https://github.com/madebycm/html5boilerplate/'
+alias boil='git clone https://github.com/madebycm/html5boilerplate/ .' # trailing dot to clone into current dir
 ```
